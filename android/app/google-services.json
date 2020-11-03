@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184256866939",
+    "firebase_url": "https://skillhubcourcesv2.firebaseio.com",
+    "project_id": "skillhubcourcesv2",
+    "storage_bucket": "skillhubcourcesv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184256866939:android:f0a5e9c39d178cf3cf90de",
+        "android_client_info": {
+          "package_name": "elzoghbi.com.skill_hub_courses_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184256866939-1hr15oj8fj0fss7ue89ueeekqkoikp0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elzoghbi.com.skill_hub_courses_v2",
+            "certificate_hash": "ab3a59da203486a10f28a5adbf6845be63405103"
+          }
+        },
+        {
+          "client_id": "184256866939-ildadeo439c1ej1n8hdttm0g4kp3933h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbZV1u8WKTDYCcKRFz2l8ZdGL6HOqHC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184256866939-ildadeo439c1ej1n8hdttm0g4kp3933h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
